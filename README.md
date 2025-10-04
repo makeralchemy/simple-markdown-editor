@@ -17,8 +17,8 @@ To run this markdown editor, you will need Python 3 installed on your system.
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone <your-repo-url>
-    cd <repository-folder>
+    git clone https://github.com/makeralchemy/simple-markdown-editor.git
+    cd simple-markdown-editor
     ```
 
 2.  **Create a virtual environment (recommended):**
